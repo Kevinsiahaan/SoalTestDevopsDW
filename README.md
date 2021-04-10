@@ -6,3 +6,9 @@ jawaban soal test technical bootcamp Kevin Siahaan
 
 Link Gambar Jawaban 
 1 . <a href="https://github.com/Kevinsiahaan/SoalTestDevopsDW/blob/main/01.png">Jawaban No 1</a>
+2 . <a href="https://github.com/Kevinsiahaan/SoalTestDevopsDW/blob/main/02.png">Jawaban No 2</a>
+3 . <a href="https://github.com/Kevinsiahaan/SoalTestDevopsDW/blob/main/03.png">Jawaban No 3</a>
+4 . <a href="https://github.com/Kevinsiahaan/SoalTestDevopsDW/blob/main/04.png">Jawaban No 4</a>
+5 . <a href="https://github.com/Kevinsiahaan/SoalTestDevopsDW/blob/main/05.png">Jawaban No 5</a>
+6 . <a href="https://github.com/Kevinsiahaan/SoalTestDevopsDW/blob/main/06.png">Jawaban No 6</a>
+7 . <a href="https://github.com/Kevinsiahaan/SoalTestDevopsDW/blob/main/07.png">Jawaban No 7</a>
